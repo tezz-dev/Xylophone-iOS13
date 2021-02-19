@@ -1,4 +1,4 @@
-![Main Pic](Documentation/main.jpg)
+![Main Pic](Documentation/main.png)
 
 # Xylophone
 
